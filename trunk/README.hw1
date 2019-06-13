@@ -1,0 +1,24 @@
+
+README!
+
+Ok, three test cases are in the tests directory. The output files are the thoroughly checked outputs 
+from my compiler. My naming convention in the output deviates slightly from what was required. 
+Basically, because of the way my ast was designed it helped to give the output of the code a 
+bit more information (because one node in output represents one node in the ast). For example, a 
+For Loop node describes itself as a "ForLoop" as opposed to just a "stat" with 2 Expression operands, 
+a name, and a Block. I believe this aids readability. 
+
+
+Other Examples:
+varlist = explist  => Assignment 
+functioncall => FunctionCallSt
+Do block end => DoEnd 
+while exp do block => WhileLoop 
+
+etc. 
+
+
+
+
+
+

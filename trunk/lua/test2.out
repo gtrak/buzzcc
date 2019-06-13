@@ -1,0 +1,35 @@
+(Chunk 5 
+  (Assignment 5 (VarList 5  (Var 5 (Name 5 x))) (ExpList 5 
+    (NumberExp 5 (Number 5 1.00))
+  ))
+  (Assignment 6 (VarList 6  (Var 6 (Name 6 y))) (ExpList 6 
+    (NumberExp 6 (Number 6 1.00))
+  ))
+  (Assignment 7 (VarList 7  (Var 7 (Name 7 z))) (ExpList 7 
+    (NumberExp 7 (Number 7 1000.00))
+  ))
+  (Assignment 9 (VarList 9  (Var 9 (Name 9 string1))) (ExpList 9 
+    (StringExp 9 (String 9 ""This is a single quoted string""))
+  ))
+  (Assignment 10 (VarList 10  (Var 10 (Name 10 string2))) (ExpList 10 
+    (StringExp 10 (String 10 "Double Bracket string"))
+  ))
+  (Assignment 11 (VarList 11  (Var 11 (Name 11 string3))) (ExpList 11 
+    (StringExp 11 (String 11 "[Double quoted string]"))
+  ))
+  (Assignment 12 (VarList 12  (Var 12 (Name 12 string4))) (ExpList 12 
+    (StringExp 12 (String 12 "Whoever designed this language wanted to make it as difficult as possible to parse"))
+  ))
+  (Assignment 19 (VarList 19  (Var 19 (Name 19 string6))) (ExpList 19 
+    (StringExp 19 (String 19 "This should show up"))
+  ))
+  (Assignment 27 (VarList 27  (Var 27 (Name 27 string8))) (ExpList 30 
+    (StringExp 30 (String 30 "
+Multi-line 
+string
+"))
+  ))
+  (Assignment 32 (VarList 32  (Var 32 (Name 32 string9))) (ExpList 32 
+    (StringExp 32 (String 32 " This string should have right brackets in it ]] ]====] <= here "))
+  ))
+)

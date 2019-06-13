@@ -1,0 +1,126 @@
+#summary Our thoughts on Project 3
+
+= ARRAYS =
+
+= TESTING =
+
+= CONTROL FLOW OPTIM =
+
+= OTHER OPTIM =
+
+
+
+
+_THE FOLLOWING IS DEPRECATED!_
+= OOP =
+
+*Classes Examples*
+
+
+{{{
+class Coordinate  {
+   private int x;
+   prvate int y;
+
+
+   public Coordinate(int myx, int myy){
+      x=myx;
+      y=myy;
+   }
+
+
+   public int getX(){
+      return x;
+   }
+
+   public int getY(){
+      return y;
+   }
+
+}
+
+
+
+class Coordinate extends Number
+   public y
+   private x
+   static numberofobjects=0;
+   
+   public Coordinate()
+      y=0
+      x=0
+   end
+
+   public getX()
+      return this.x
+   end
+
+   public getY()
+      return this.y
+   ends 
+
+end
+  
+
+
+
+}}}
+
+*Instantiating a Class*  _*MISSING!!!!!!!!!!!!!!!!!!!!!!!!!!!!*_
+
+{{{
+
+a = Classconstructor(x,y)
+
+or
+
+a = new Classconstructor(x,y)
+
+
+something=a.method
+something=a.member
+a.member = something
+
+
+}}}
+
+
+*The BNF*
+
+{{{
+
+<class_statement> ::= [public] class Name [extend Name] class_body End
+
+class_body ::= class_body class_member |
+               empty
+
+class_member ::= class_function|
+                 class_variable|
+
+access_specifier ::= public|
+                     private|
+                     protected
+
+
+class_function ::= [access_specifier] function Name funcbody End
+
+class_variable ::= [access_specifier] Name ['=' exp]
+
+
+
+
+
+
+
+}}}
+
+*Classes:*
+
+{{{
+
+
+
+
+
+
+}}}

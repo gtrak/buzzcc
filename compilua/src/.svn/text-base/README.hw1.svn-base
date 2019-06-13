@@ -1,0 +1,13 @@
+HW #1 - Grigory Trakhman
+
+I did this entirely in Python with the PLY module.  You don't need to install it as i have
+included it in a subdirectory, just run 'python luac.py $yourtestcase'
+
+The top half of the program is the lexer module, and the bottom is the parser.  I did not 
+complete a proper class-based AST, but instead just have a parse tree where i've removed 
+commas and quotation marks.  The grammar rules are evaluated by the yacc module based on 
+reflection.  Yacc.py parses the docstrings for the rules and creates parse tables.
+
+I implemented the grammar according to the homework spec, and I also did Comments and 
+attempted multi-line strings (they're commented out at the moment) according to the 
+lua 5.1 spec.  There are a couple of test cases demonstrating strings and comments.

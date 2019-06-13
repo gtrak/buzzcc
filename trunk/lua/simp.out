@@ -1,0 +1,25 @@
+(Chunk 0 
+  (Assignment 0 (VarList 0  (Var 0 (Name 0 x))) (ExpList 0 
+    (NumberExp 0 (Number 0 6.00))
+  ))
+  (Assignment 1 (VarList 1  (Var 1 (Name 1 y))) (ExpList 1 
+    (BinOpExp 1 (PrefixExp-Exp 1 (PrefixExp 1 (Var 1 (Name 1 x)))) (Binop 1 + ) (NumberExp 1 (Number 1 6.00)))
+  ))
+  (FunctionCallSt 2 (FunctionCall 2 (PrefixExp 2 (Var 2 (Name 2 construct_all_compilers))) (Args 2 (ExpList 2 
+    (BinOpExp 2 (NumberExp 2 (Number 2 0.00)) (Binop 2 + ) (NumberExp 2 (Number 2 0.00)))
+  ))))
+  (DoEnd 3 (Block 4 
+    (Chunk 4 
+      (Assignment 4 (VarList 4  (Var 4 (Name 4 pi))) (ExpList 4 
+        (NumberExp 4 (Number 4 3.14))
+      ))
+    )
+  ))
+  (ForLoop 7 (Name 7 x) (NumberExp 7 (Number 7 0.00)) (NumberExp 7 (Number 7 10.00))(Block 8 
+    (Chunk 8 
+      (Assignment 8 (VarList 8  (Var 8 (Name 8 pi))) (ExpList 8 
+        (BinOpExp 8 (PrefixExp-Exp 8 (PrefixExp 8 (Var 8 (Name 8 pi)))) (Binop 8 + ) (PrefixExp-Exp 8 (PrefixExp 8 (Var 8 (Name 8 pi)))))
+      ))
+    )
+  ))
+)

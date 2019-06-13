@@ -1,0 +1,14 @@
+a = 1*2;
+print(a);
+b= 2*4;
+print(b);
+c = 3* 8;
+print(c);
+d = 16 * 4;
+print(d);
+e= 7 * 32;
+print(e);
+f = 7 * 15;
+print(f);
+g = 31 * 33;
+print(g);

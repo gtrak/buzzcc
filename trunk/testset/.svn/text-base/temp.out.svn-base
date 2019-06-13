@@ -1,0 +1,1656 @@
+$VAR1 = {
+          'luacpath_alternate' => '../luac-noopts',
+          'luacpath' => '../luac'
+        };
+../luac
+
+Executing file greaterequal.lua with LUAC
+../luac greaterequal.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file greaterequal.ll with llvm-as
+llvm-as greaterequal.ll
+Executing file greaterequal.bc with lli
+lli greaterequal.bc > greaterequal.temp
+
+
+Executing file assignmentvarexp.lua with LUAC
+../luac assignmentvarexp.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file assignmentvarexp.ll with llvm-as
+llvm-as assignmentvarexp.ll
+Executing file assignmentvarexp.bc with lli
+lli assignmentvarexp.bc > assignmentvarexp.temp
+
+
+Executing file ifthenelseifelsecoercionstring.lua with LUAC
+../luac ifthenelseifelsecoercionstring.lua
+
+
+Executing file string2.lua with LUAC
+../luac string2.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string2.ll with llvm-as
+llvm-as string2.ll
+
+
+Executing file repeatcoercionstring.lua with LUAC
+../luac repeatcoercionstring.lua
+
+
+Executing file whilecoercionnil.lua with LUAC
+../luac whilecoercionnil.lua
+
+
+Executing file ifthen.lua with LUAC
+../luac ifthen.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file ifthen.ll with llvm-as
+llvm-as ifthen.ll
+Executing file ifthen.bc with lli
+lli ifthen.bc > ifthen.temp
+
+
+Executing file mulfloat.lua with LUAC
+../luac mulfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file mulfloat.ll with llvm-as
+llvm-as mulfloat.ll
+
+
+Executing file whilebreak.lua with LUAC
+../luac whilebreak.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file whilebreak.ll with llvm-as
+llvm-as whilebreak.ll
+Executing file whilebreak.bc with lli
+lli whilebreak.bc > whilebreak.temp
+
+
+Executing file string3.lua with LUAC
+../luac string3.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string3.ll with llvm-as
+llvm-as string3.ll
+
+
+Executing file neg.lua with LUAC
+../luac neg.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file neg.ll with llvm-as
+llvm-as neg.ll
+Executing file neg.bc with lli
+lli neg.bc > neg.temp
+
+
+Executing file functionsfloat.lua with LUAC
+../luac functionsfloat.lua
+
+
+Executing file repeat.lua with LUAC
+../luac repeat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file repeat.ll with llvm-as
+llvm-as repeat.ll
+Executing file repeat.bc with lli
+lli repeat.bc > repeat.temp
+
+
+Executing file deadcode2.lua with LUAC
+../luac deadcode2.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file deadcode2.ll with llvm-as
+llvm-as deadcode2.ll
+Executing file deadcode2.bc with lli
+lli deadcode2.bc > deadcode2.temp
+
+
+Executing file ifthenelseifelsecoercion0.lua with LUAC
+../luac ifthenelseifelsecoercion0.lua
+
+
+Executing file for.lua with LUAC
+../luac for.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file for.ll with llvm-as
+llvm-as for.ll
+Executing file for.bc with lli
+lli for.bc > for.temp
+
+
+Executing file equals.lua with LUAC
+../luac equals.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file equals.ll with llvm-as
+llvm-as equals.ll
+Executing file equals.bc with lli
+lli equals.bc > equals.temp
+
+
+Executing file integer2.lua with LUAC
+../luac integer2.lua
+
+
+Executing file forstartfloat.lua with LUAC
+../luac forstartfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forstartfloat.ll with llvm-as
+llvm-as forstartfloat.ll
+
+
+Executing file sub.lua with LUAC
+../luac sub.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file sub.ll with llvm-as
+llvm-as sub.ll
+Executing file sub.bc with lli
+lli sub.bc > sub.temp
+
+
+Executing file string4.lua with LUAC
+../luac string4.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string4.ll with llvm-as
+llvm-as string4.ll
+
+
+Executing file ifthenelse.lua with LUAC
+../luac ifthenelse.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file ifthenelse.ll with llvm-as
+llvm-as ifthenelse.ll
+Executing file ifthenelse.bc with lli
+lli ifthenelse.bc > ifthenelse.temp
+
+
+Executing file exp.lua with LUAC
+../luac exp.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file exp.ll with llvm-as
+llvm-as exp.ll
+Executing file exp.bc with lli
+lli exp.bc > exp.temp
+
+
+Executing file add.lua with LUAC
+../luac add.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file add.ll with llvm-as
+llvm-as add.ll
+Executing file add.bc with lli
+lli add.bc > add.temp
+
+
+Executing file divfloat.lua with LUAC
+../luac divfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file divfloat.ll with llvm-as
+llvm-as divfloat.ll
+
+
+Executing file greaterthan.lua with LUAC
+../luac greaterthan.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file greaterthan.ll with llvm-as
+llvm-as greaterthan.ll
+Executing file greaterthan.bc with lli
+lli greaterthan.bc > greaterthan.temp
+
+
+Executing file doend.lua with LUAC
+../luac doend.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file doend.ll with llvm-as
+llvm-as doend.ll
+Executing file doend.bc with lli
+lli doend.bc > doend.temp
+
+
+Executing file length.lua with LUAC
+../luac length.lua
+
+
+Executing file shortcircuit.lua with LUAC
+../luac shortcircuit.lua
+
+
+Executing file integer1.lua with LUAC
+../luac integer1.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file integer1.ll with llvm-as
+llvm-as integer1.ll
+Executing file integer1.bc with lli
+lli integer1.bc > integer1.temp
+
+
+Executing file while.lua with LUAC
+../luac while.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file while.ll with llvm-as
+llvm-as while.ll
+Executing file while.bc with lli
+lli while.bc > while.temp
+
+
+Executing file globallocal.lua with LUAC
+../luac globallocal.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file globallocal.ll with llvm-as
+llvm-as globallocal.ll
+Executing file globallocal.bc with lli
+lli globallocal.bc > globallocal.temp
+
+
+Executing file modulofloat.lua with LUAC
+../luac modulofloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file modulofloat.ll with llvm-as
+llvm-as modulofloat.ll
+
+
+Executing file addfloat.lua with LUAC
+../luac addfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file addfloat.ll with llvm-as
+llvm-as addfloat.ll
+
+
+Executing file subfloat.lua with LUAC
+../luac subfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file subfloat.ll with llvm-as
+llvm-as subfloat.ll
+
+
+Executing file float2.lua with LUAC
+../luac float2.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file float2.ll with llvm-as
+llvm-as float2.ll
+
+
+Executing file expfloat.lua with LUAC
+../luac expfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file expfloat.ll with llvm-as
+llvm-as expfloat.ll
+
+
+Executing file forinc.lua with LUAC
+../luac forinc.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forinc.ll with llvm-as
+llvm-as forinc.ll
+Executing file forinc.bc with lli
+lli forinc.bc > forinc.temp
+
+
+Executing file concatcoerfloat.lua with LUAC
+../luac concatcoerfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file concatcoerfloat.ll with llvm-as
+llvm-as concatcoerfloat.ll
+
+
+Executing file forincfloat.lua with LUAC
+../luac forincfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forincfloat.ll with llvm-as
+llvm-as forincfloat.ll
+
+
+Executing file repeatcoercion0.lua with LUAC
+../luac repeatcoercion0.lua
+
+
+Executing file ifthenelseifelse.lua with LUAC
+../luac ifthenelseifelse.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file ifthenelseifelse.ll with llvm-as
+llvm-as ifthenelseifelse.ll
+Executing file ifthenelseifelse.bc with lli
+lli ifthenelseifelse.bc > ifthenelseifelse.temp
+
+
+Executing file concatcoer.lua with LUAC
+../luac concatcoer.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file concatcoer.ll with llvm-as
+llvm-as concatcoer.ll
+
+
+Executing file negfloat.lua with LUAC
+../luac negfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file negfloat.ll with llvm-as
+llvm-as negfloat.ll
+
+
+Executing file string5.lua with LUAC
+../luac string5.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string5.ll with llvm-as
+llvm-as string5.ll
+
+
+Executing file forend.lua with LUAC
+../luac forend.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forend.ll with llvm-as
+llvm-as forend.ll
+Executing file forend.bc with lli
+lli forend.bc > forend.temp
+
+
+Executing file deadcode.lua with LUAC
+../luac deadcode.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file deadcode.ll with llvm-as
+llvm-as deadcode.ll
+Executing file deadcode.bc with lli
+lli deadcode.bc > deadcode.temp
+
+
+Executing file break.lua with LUAC
+../luac break.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file break.ll with llvm-as
+llvm-as break.ll
+Executing file break.bc with lli
+lli break.bc > break.temp
+
+
+Executing file return.lua with LUAC
+../luac return.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file return.ll with llvm-as
+llvm-as return.ll
+Executing file return.bc with lli
+lli return.bc > return.temp
+
+
+Executing file assignmentvarright.lua with LUAC
+../luac assignmentvarright.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file assignmentvarright.ll with llvm-as
+llvm-as assignmentvarright.ll
+Executing file assignmentvarright.bc with lli
+lli assignmentvarright.bc > assignmentvarright.temp
+
+
+Executing file lessthan.lua with LUAC
+../luac lessthan.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file lessthan.ll with llvm-as
+llvm-as lessthan.ll
+Executing file lessthan.bc with lli
+lli lessthan.bc > lessthan.temp
+
+
+Executing file functions.lua with LUAC
+../luac functions.lua
+
+
+Executing file mul.lua with LUAC
+../luac mul.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file mul.ll with llvm-as
+llvm-as mul.ll
+Executing file mul.bc with lli
+lli mul.bc > mul.temp
+
+
+Executing file functionvars.lua with LUAC
+../luac functionvars.lua
+
+
+Executing file div.lua with LUAC
+../luac div.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file div.ll with llvm-as
+llvm-as div.ll
+Executing file div.bc with lli
+lli div.bc > div.temp
+
+
+Executing file lessequal.lua with LUAC
+../luac lessequal.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file lessequal.ll with llvm-as
+llvm-as lessequal.ll
+Executing file lessequal.bc with lli
+lli lessequal.bc > lessequal.temp
+
+
+Executing file assignmentvar.lua with LUAC
+../luac assignmentvar.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file assignmentvar.ll with llvm-as
+llvm-as assignmentvar.ll
+Executing file assignmentvar.bc with lli
+lli assignmentvar.bc > assignmentvar.temp
+
+
+Executing file float1.lua with LUAC
+../luac float1.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file float1.ll with llvm-as
+llvm-as float1.ll
+Executing file float1.bc with lli
+lli float1.bc > float1.temp
+
+
+Executing file string1.lua with LUAC
+../luac string1.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string1.ll with llvm-as
+llvm-as string1.ll
+
+
+Executing file float3.lua with LUAC
+../luac float3.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file float3.ll with llvm-as
+llvm-as float3.ll
+
+
+Executing file simplestring.lua with LUAC
+../luac simplestring.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file simplestring.ll with llvm-as
+llvm-as simplestring.ll
+Executing file simplestring.bc with lli
+lli simplestring.bc > simplestring.temp
+
+
+Executing file concat.lua with LUAC
+../luac concat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file concat.ll with llvm-as
+llvm-as concat.ll
+Executing file concat.bc with lli
+lli concat.bc > concat.temp
+
+
+Executing file notequals.lua with LUAC
+../luac notequals.lua
+
+
+Executing file assignmentvarleft.lua with LUAC
+../luac assignmentvarleft.lua
+
+
+Executing file coercionint.lua with LUAC
+../luac coercionint.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file coercionint.ll with llvm-as
+llvm-as coercionint.ll
+
+
+Executing file returnstring.lua with LUAC
+../luac returnstring.lua
+
+
+Executing file array.lua with LUAC
+../luac array.lua
+
+
+Executing file repeatbreak.lua with LUAC
+../luac repeatbreak.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file repeatbreak.ll with llvm-as
+llvm-as repeatbreak.ll
+Executing file repeatbreak.bc with lli
+lli repeatbreak.bc > repeatbreak.temp
+
+
+Executing file modulo.lua with LUAC
+../luac modulo.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file modulo.ll with llvm-as
+llvm-as modulo.ll
+Executing file modulo.bc with lli
+lli modulo.bc > modulo.temp
+
+
+Executing file ifthenelseifelsecoercionnil.lua with LUAC
+../luac ifthenelseifelsecoercionnil.lua
+
+
+Executing file passbywhat.lua with LUAC
+../luac passbywhat.lua
+
+
+Executing file greaterequal.lua with LUAC
+../luac-noopts greaterequal.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file greaterequal.ll with llvm-as
+llvm-as greaterequal.ll
+Executing file greaterequal.bc with lli
+lli greaterequal.bc > greaterequal.temp
+
+
+Executing file assignmentvarexp.lua with LUAC
+../luac-noopts assignmentvarexp.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file assignmentvarexp.ll with llvm-as
+llvm-as assignmentvarexp.ll
+Executing file assignmentvarexp.bc with lli
+lli assignmentvarexp.bc > assignmentvarexp.temp
+
+
+Executing file ifthenelseifelsecoercionstring.lua with LUAC
+../luac-noopts ifthenelseifelsecoercionstring.lua
+
+
+Executing file string2.lua with LUAC
+../luac-noopts string2.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string2.ll with llvm-as
+llvm-as string2.ll
+
+
+Executing file repeatcoercionstring.lua with LUAC
+../luac-noopts repeatcoercionstring.lua
+
+
+Executing file whilecoercionnil.lua with LUAC
+../luac-noopts whilecoercionnil.lua
+
+
+Executing file ifthen.lua with LUAC
+../luac-noopts ifthen.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file ifthen.ll with llvm-as
+llvm-as ifthen.ll
+Executing file ifthen.bc with lli
+lli ifthen.bc > ifthen.temp
+
+
+Executing file mulfloat.lua with LUAC
+../luac-noopts mulfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file mulfloat.ll with llvm-as
+llvm-as mulfloat.ll
+
+
+Executing file whilebreak.lua with LUAC
+../luac-noopts whilebreak.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file whilebreak.ll with llvm-as
+llvm-as whilebreak.ll
+Executing file whilebreak.bc with lli
+lli whilebreak.bc > whilebreak.temp
+
+
+Executing file string3.lua with LUAC
+../luac-noopts string3.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string3.ll with llvm-as
+llvm-as string3.ll
+
+
+Executing file neg.lua with LUAC
+../luac-noopts neg.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file neg.ll with llvm-as
+llvm-as neg.ll
+Executing file neg.bc with lli
+lli neg.bc > neg.temp
+
+
+Executing file functionsfloat.lua with LUAC
+../luac-noopts functionsfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file functionsfloat.ll with llvm-as
+llvm-as functionsfloat.ll
+
+
+Executing file repeat.lua with LUAC
+../luac-noopts repeat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file repeat.ll with llvm-as
+llvm-as repeat.ll
+Executing file repeat.bc with lli
+lli repeat.bc > repeat.temp
+
+
+Executing file deadcode2.lua with LUAC
+../luac-noopts deadcode2.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file deadcode2.ll with llvm-as
+llvm-as deadcode2.ll
+Executing file deadcode2.bc with lli
+lli deadcode2.bc > deadcode2.temp
+
+
+Executing file ifthenelseifelsecoercion0.lua with LUAC
+../luac-noopts ifthenelseifelsecoercion0.lua
+
+
+Executing file for.lua with LUAC
+../luac-noopts for.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file for.ll with llvm-as
+llvm-as for.ll
+Executing file for.bc with lli
+lli for.bc > for.temp
+
+
+Executing file equals.lua with LUAC
+../luac-noopts equals.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file equals.ll with llvm-as
+llvm-as equals.ll
+Executing file equals.bc with lli
+lli equals.bc > equals.temp
+
+
+Executing file integer2.lua with LUAC
+../luac-noopts integer2.lua
+
+
+Executing file forstartfloat.lua with LUAC
+../luac-noopts forstartfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forstartfloat.ll with llvm-as
+llvm-as forstartfloat.ll
+
+
+Executing file sub.lua with LUAC
+../luac-noopts sub.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file sub.ll with llvm-as
+llvm-as sub.ll
+Executing file sub.bc with lli
+lli sub.bc > sub.temp
+
+
+Executing file string4.lua with LUAC
+../luac-noopts string4.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string4.ll with llvm-as
+llvm-as string4.ll
+
+
+Executing file ifthenelse.lua with LUAC
+../luac-noopts ifthenelse.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file ifthenelse.ll with llvm-as
+llvm-as ifthenelse.ll
+Executing file ifthenelse.bc with lli
+lli ifthenelse.bc > ifthenelse.temp
+
+
+Executing file exp.lua with LUAC
+../luac-noopts exp.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file exp.ll with llvm-as
+llvm-as exp.ll
+Executing file exp.bc with lli
+lli exp.bc > exp.temp
+
+
+Executing file add.lua with LUAC
+../luac-noopts add.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file add.ll with llvm-as
+llvm-as add.ll
+Executing file add.bc with lli
+lli add.bc > add.temp
+
+
+Executing file divfloat.lua with LUAC
+../luac-noopts divfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file divfloat.ll with llvm-as
+llvm-as divfloat.ll
+
+
+Executing file greaterthan.lua with LUAC
+../luac-noopts greaterthan.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file greaterthan.ll with llvm-as
+llvm-as greaterthan.ll
+Executing file greaterthan.bc with lli
+lli greaterthan.bc > greaterthan.temp
+
+
+Executing file doend.lua with LUAC
+../luac-noopts doend.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file doend.ll with llvm-as
+llvm-as doend.ll
+Executing file doend.bc with lli
+lli doend.bc > doend.temp
+
+
+Executing file length.lua with LUAC
+../luac-noopts length.lua
+
+
+Executing file shortcircuit.lua with LUAC
+../luac-noopts shortcircuit.lua
+
+
+Executing file integer1.lua with LUAC
+../luac-noopts integer1.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file integer1.ll with llvm-as
+llvm-as integer1.ll
+Executing file integer1.bc with lli
+lli integer1.bc > integer1.temp
+
+
+Executing file while.lua with LUAC
+../luac-noopts while.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file while.ll with llvm-as
+llvm-as while.ll
+Executing file while.bc with lli
+lli while.bc > while.temp
+
+
+Executing file globallocal.lua with LUAC
+../luac-noopts globallocal.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file globallocal.ll with llvm-as
+llvm-as globallocal.ll
+Executing file globallocal.bc with lli
+lli globallocal.bc > globallocal.temp
+
+
+Executing file modulofloat.lua with LUAC
+../luac-noopts modulofloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file modulofloat.ll with llvm-as
+llvm-as modulofloat.ll
+
+
+Executing file addfloat.lua with LUAC
+../luac-noopts addfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file addfloat.ll with llvm-as
+llvm-as addfloat.ll
+
+
+Executing file subfloat.lua with LUAC
+../luac-noopts subfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file subfloat.ll with llvm-as
+llvm-as subfloat.ll
+
+
+Executing file float2.lua with LUAC
+../luac-noopts float2.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file float2.ll with llvm-as
+llvm-as float2.ll
+
+
+Executing file expfloat.lua with LUAC
+../luac-noopts expfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file expfloat.ll with llvm-as
+llvm-as expfloat.ll
+
+
+Executing file forinc.lua with LUAC
+../luac-noopts forinc.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forinc.ll with llvm-as
+llvm-as forinc.ll
+Executing file forinc.bc with lli
+lli forinc.bc > forinc.temp
+
+
+Executing file concatcoerfloat.lua with LUAC
+../luac-noopts concatcoerfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file concatcoerfloat.ll with llvm-as
+llvm-as concatcoerfloat.ll
+
+
+Executing file forincfloat.lua with LUAC
+../luac-noopts forincfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forincfloat.ll with llvm-as
+llvm-as forincfloat.ll
+
+
+Executing file repeatcoercion0.lua with LUAC
+../luac-noopts repeatcoercion0.lua
+
+
+Executing file ifthenelseifelse.lua with LUAC
+../luac-noopts ifthenelseifelse.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file ifthenelseifelse.ll with llvm-as
+llvm-as ifthenelseifelse.ll
+Executing file ifthenelseifelse.bc with lli
+lli ifthenelseifelse.bc > ifthenelseifelse.temp
+
+
+Executing file concatcoer.lua with LUAC
+../luac-noopts concatcoer.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file concatcoer.ll with llvm-as
+llvm-as concatcoer.ll
+
+
+Executing file negfloat.lua with LUAC
+../luac-noopts negfloat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file negfloat.ll with llvm-as
+llvm-as negfloat.ll
+
+
+Executing file string5.lua with LUAC
+../luac-noopts string5.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string5.ll with llvm-as
+llvm-as string5.ll
+
+
+Executing file forend.lua with LUAC
+../luac-noopts forend.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file forend.ll with llvm-as
+llvm-as forend.ll
+Executing file forend.bc with lli
+lli forend.bc > forend.temp
+
+
+Executing file deadcode.lua with LUAC
+../luac-noopts deadcode.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file deadcode.ll with llvm-as
+llvm-as deadcode.ll
+Executing file deadcode.bc with lli
+lli deadcode.bc > deadcode.temp
+
+
+Executing file break.lua with LUAC
+../luac-noopts break.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file break.ll with llvm-as
+llvm-as break.ll
+Executing file break.bc with lli
+lli break.bc > break.temp
+
+
+Executing file return.lua with LUAC
+../luac-noopts return.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file return.ll with llvm-as
+llvm-as return.ll
+Executing file return.bc with lli
+lli return.bc > return.temp
+
+
+Executing file assignmentvarright.lua with LUAC
+../luac-noopts assignmentvarright.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file assignmentvarright.ll with llvm-as
+llvm-as assignmentvarright.ll
+Executing file assignmentvarright.bc with lli
+lli assignmentvarright.bc > assignmentvarright.temp
+
+
+Executing file lessthan.lua with LUAC
+../luac-noopts lessthan.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file lessthan.ll with llvm-as
+llvm-as lessthan.ll
+Executing file lessthan.bc with lli
+lli lessthan.bc > lessthan.temp
+
+
+Executing file functions.lua with LUAC
+../luac-noopts functions.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file functions.ll with llvm-as
+llvm-as functions.ll
+Executing file functions.bc with lli
+lli functions.bc > functions.temp
+
+
+Executing file mul.lua with LUAC
+../luac-noopts mul.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file mul.ll with llvm-as
+llvm-as mul.ll
+Executing file mul.bc with lli
+lli mul.bc > mul.temp
+
+
+Executing file functionvars.lua with LUAC
+../luac-noopts functionvars.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file functionvars.ll with llvm-as
+llvm-as functionvars.ll
+
+
+Executing file div.lua with LUAC
+../luac-noopts div.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file div.ll with llvm-as
+llvm-as div.ll
+Executing file div.bc with lli
+lli div.bc > div.temp
+
+
+Executing file lessequal.lua with LUAC
+../luac-noopts lessequal.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file lessequal.ll with llvm-as
+llvm-as lessequal.ll
+Executing file lessequal.bc with lli
+lli lessequal.bc > lessequal.temp
+
+
+Executing file assignmentvar.lua with LUAC
+../luac-noopts assignmentvar.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file assignmentvar.ll with llvm-as
+llvm-as assignmentvar.ll
+Executing file assignmentvar.bc with lli
+lli assignmentvar.bc > assignmentvar.temp
+
+
+Executing file float1.lua with LUAC
+../luac-noopts float1.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file float1.ll with llvm-as
+llvm-as float1.ll
+Executing file float1.bc with lli
+lli float1.bc > float1.temp
+
+
+Executing file string1.lua with LUAC
+../luac-noopts string1.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file string1.ll with llvm-as
+llvm-as string1.ll
+
+
+Executing file float3.lua with LUAC
+../luac-noopts float3.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file float3.ll with llvm-as
+llvm-as float3.ll
+
+
+Executing file simplestring.lua with LUAC
+../luac-noopts simplestring.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file simplestring.ll with llvm-as
+llvm-as simplestring.ll
+Executing file simplestring.bc with lli
+lli simplestring.bc > simplestring.temp
+
+
+Executing file concat.lua with LUAC
+../luac-noopts concat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file concat.ll with llvm-as
+llvm-as concat.ll
+Executing file concat.bc with lli
+lli concat.bc > concat.temp
+
+
+Executing file notequals.lua with LUAC
+../luac-noopts notequals.lua
+
+
+Executing file assignmentvarleft.lua with LUAC
+../luac-noopts assignmentvarleft.lua
+
+
+Executing file coercionint.lua with LUAC
+../luac-noopts coercionint.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file coercionint.ll with llvm-as
+llvm-as coercionint.ll
+
+
+Executing file returnstring.lua with LUAC
+../luac-noopts returnstring.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file returnstring.ll with llvm-as
+llvm-as returnstring.ll
+Executing file returnstring.bc with lli
+lli returnstring.bc > returnstring.temp
+
+
+Executing file array.lua with LUAC
+../luac-noopts array.lua
+
+
+Executing file repeatbreak.lua with LUAC
+../luac-noopts repeatbreak.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file repeatbreak.ll with llvm-as
+llvm-as repeatbreak.ll
+Executing file repeatbreak.bc with lli
+lli repeatbreak.bc > repeatbreak.temp
+
+
+Executing file modulo.lua with LUAC
+../luac-noopts modulo.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file modulo.ll with llvm-as
+llvm-as modulo.ll
+Executing file modulo.bc with lli
+lli modulo.bc > modulo.temp
+
+
+Executing file ifthenelseifelsecoercionnil.lua with LUAC
+../luac-noopts ifthenelseifelsecoercionnil.lua
+
+
+Executing file passbywhat.lua with LUAC
+../luac-noopts passbywhat.lua
+Lexing & Parsing.
+Performing type inference.
+Generating llvm IR.
+Finished compiling.
+
+Executing file passbywhat.ll with llvm-as
+llvm-as passbywhat.ll
+Executing file passbywhat.bc with lli
+lli passbywhat.bc > passbywhat.temp
+
+
+
+
+----------------------------------------------
+
+
+
+
+ BEGINNING REPORT:
+
+Total Number of Items: 71
+Files that passed all stages (30)
+greaterequal.lua
+assignmentvarexp.lua
+ifthen.lua
+neg.lua
+repeat.lua
+deadcode2.lua
+for.lua
+equals.lua
+sub.lua
+ifthenelse.lua
+exp.lua
+add.lua
+greaterthan.lua
+doend.lua
+integer1.lua
+while.lua
+globallocal.lua
+forinc.lua
+ifthenelseifelse.lua
+forend.lua
+deadcode.lua
+return.lua
+assignmentvarright.lua
+lessthan.lua
+mul.lua
+lessequal.lua
+assignmentvar.lua
+simplestring.lua
+concat.lua
+modulo.lua
+
+Files that failed at LUAC stage (17)
+ifthenelseifelsecoercionstring.lua
+repeatcoercionstring.lua
+whilecoercionnil.lua
+functionsfloat.lua
+ifthenelseifelsecoercion0.lua
+integer2.lua
+length.lua
+shortcircuit.lua
+repeatcoercion0.lua
+functions.lua
+functionvars.lua
+notequals.lua
+assignmentvarleft.lua
+returnstring.lua
+array.lua
+ifthenelseifelsecoercionnil.lua
+passbywhat.lua
+
+Files that failed at LLVM-AS stage (19)
+string2.lua
+mulfloat.lua
+string3.lua
+forstartfloat.lua
+string4.lua
+divfloat.lua
+modulofloat.lua
+addfloat.lua
+subfloat.lua
+float2.lua
+expfloat.lua
+concatcoerfloat.lua
+forincfloat.lua
+concatcoer.lua
+negfloat.lua
+string5.lua
+string1.lua
+float3.lua
+coercionint.lua
+
+Files that failed at LLI or COMPARE stage (5)
+whilebreak.lua
+break.lua
+div.lua
+float1.lua
+repeatbreak.lua
+
+
+
+
+----------------------------------------------
+
+
+
+
+
+
+
+----------------------------------------------
+
+
+
+
+ BEGINNING OMPARISON:
+
+Files in CURRENT but not on ALTERNATE
+
+In PASSED:
+
+Files that failed at LUAC stage 
+functionsfloat.lua
+functions.lua
+functionvars.lua
+returnstring.lua
+passbywhat.lua
+
+Files that failed at LLVM-AS stage 
+
+Files that failed at LLI or COMPARE stage
+
+
+
+
+----------------------------------------------
+
+
+
+Files in ALTERNATE but not on CURRENT
+
+In PASSED:
+functions.lua
+passbywhat.lua
+
+Files that failed at LUAC stage 
+
+Files that failed at LLVM-AS stage 
+functionsfloat.lua
+functionvars.lua
+
+Files that failed at LLI or COMPARE stage
+returnstring.lua
+CURRENT: ../luac  ALTERNATE: ../luac-noopts
+

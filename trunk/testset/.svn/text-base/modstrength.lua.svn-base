@@ -1,0 +1,14 @@
+a = 5%2;
+print(a);
+b= 10%4;
+print(b);
+c = 35% 8;
+print(c);
+d = 20 % 4;
+print(d);
+e= 133 % 32;
+print(e);
+f = 36 % 15;
+print(f);
+g = 74 % 33;
+print(g);

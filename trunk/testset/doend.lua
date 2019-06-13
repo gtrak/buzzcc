@@ -1,0 +1,9 @@
+a = 1
+
+do
+
+a= a + 1
+
+end
+
+print(a)

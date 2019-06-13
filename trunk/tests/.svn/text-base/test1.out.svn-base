@@ -1,0 +1,91 @@
+(Chunk 2 
+  (FuncDecl 2 (FuncName 2  (Name 2 test_func)) (Funcbody 2 (Block 3 
+    (Chunk 3 
+      (Assignment 3 (VarList 3  (Var 3 (Name 3 x))) (ExpList 3 
+        (BinOpExp 3 (BinOpExp 3 (NumberExp 3 (Number 3 1.00)) (Binop 3 + ) (NumberExp 3 (Number 3 2.00))) (Binop 3 + ) (NumberExp 3 (Number 3 3.00)))
+      ))
+      (Assignment 4 (VarList 4  (Var 4 (Name 4 y))) (ExpList 4 
+        (BinOpExp 4 (NumberExp 4 (Number 4 5.00)) (Binop 4 + ) (BinOpExp 4 (NumberExp 4 (Number 4 4.00)) (Binop 4 * ) (NumberExp 4 (Number 4 3.00))))
+      ))
+      (Assignment 5 (VarList 5  (Var 5 (Name 5 z))) (ExpList 5 
+        (BinOpExp 5 (BinOpExp 5 (NumberExp 5 (Number 5 5.00)) (Binop 5 * ) (NumberExp 5 (Number 5 4.00))) (Binop 5 * ) (NumberExp 5 (Number 5 3.00)))
+      ))
+      (ForLoop 8 (Name 8 i) (NumberExp 8 (Number 8 1.00)) (NumberExp 8 (Number 8 10.00))(Block 9 
+        (Chunk 9 
+          (FunctionCallSt 9 (FunctionCall 9 (PrefixExp 9 (Var 9 (Name 9 print))) (Args 9 (ExpList 9 
+            (BinOpExp 9 (StringExp 9 (String 9 "Testing the for loop ")) (Binop 9 .. ) (PrefixExp-Exp 9 (PrefixExp 9 (Var 9 (Name 9 i)))))
+          ))))
+        )
+      ))
+      (Assignment 13 (VarList 13  (Var 13 (Name 13 table))) (ExpList 13 
+        (TableExp 13 (TableConstructor 13 (FieldList 13 
+          (Field 13 (Name 13 Batman) (StringExp 13 (String 13 "Hero")))
+          (Field 13 (Name 13 Joker) (StringExp 13 (String 13 "Villain")))
+          (Field 13 (Name 13 Superman) (StringExp 13 (String 13 "Asshat")))
+        )))
+      ))
+      (IterLoop 14 (NameList 14  (Name 14 k) (Name 14 v)) (ExpList 14 
+        (PrefixExp-Exp 14 (PrefixExp 14 (FunctionCall 14 (PrefixExp 14 (Var 14 (Name 14 pairs))) (Args 14 (ExpList 14 
+          (PrefixExp-Exp 14 (PrefixExp 14 (Var 14 (Name 14 table))))
+        )))))
+      ) (Block 15 
+        (Chunk 15 
+          (FunctionCallSt 15 (FunctionCall 15 (PrefixExp 15 (Var 15 (Name 15 print))) (Args 15 (ExpList 15 
+            (PrefixExp-Exp 15 (PrefixExp 15 (Var 15 (Name 15 k))))
+            (PrefixExp-Exp 15 (PrefixExp 15 (Var 15 (Name 15 v))))
+          ))))
+        )
+      ))
+      (ForLoop 17 (Name 17 i) (NumberExp 17 (Number 17 1.00)) (NumberExp 17 (Number 17 10.00))(NumberExp 17 (Number 17 0.50))(Block 18 
+        (Chunk 18 
+          (FunctionCallSt 18 (FunctionCall 18 (PrefixExp 18 (Var 18 (Name 18 print))) (Args 18 (ExpList 18 
+            (BinOpExp 18 (StringExp 18 (String 18 "Floating Point Looping:")) (Binop 18 .. ) (PrefixExp-Exp 18 (PrefixExp 18 (Var 18 (Name 18 i)))))
+          ))))
+        )
+      ))
+      (IfThen 21 
+        (BoolExp 21 (Bool 21 true))
+        (Block 22 
+          (Chunk 22 
+            (FunctionCallSt 22 (FunctionCall 22 (PrefixExp 22 (Var 22 (Name 22 print))) (Args 22 (ExpList 22 
+              (StringExp 22 (String 22 "If"))
+            ))))
+          )
+        )
+        (BoolExp 23 (Bool 23 true))
+        (Block 24 
+          (Chunk 24 
+            (FunctionCallSt 24 (FunctionCall 24 (PrefixExp 24 (Var 24 (Name 24 print))) (Args 24 (ExpList 24 
+              (StringExp 24 (String 24 "Elseif"))
+            ))))
+          )
+        )
+        (BoolExp 25 (Bool 25 true))
+        (Block 26 
+          (Chunk 26 
+            (FunctionCallSt 26 (FunctionCall 26 (PrefixExp 26 (Var 26 (Name 26 print))) (Args 26 (ExpList 26 
+              (StringExp 26 (String 26 "Another Elseif"))
+            ))))
+          )
+        )
+        (Block 28 
+          (Chunk 28 
+            (FunctionCallSt 28 (FunctionCall 28 (PrefixExp 28 (Var 28 (Name 28 print))) (Args 28 (ExpList 28 
+              (StringExp 28 (String 28 "Else"))
+            ))))
+          )
+        )
+      )
+      (Assignment 31 (VarList 31  (Var 31 (Name 31 string))) (ExpList 32 
+        (StringExp 32 (String 32 " Here is a mult-line 
+	string "))
+      ))
+      (Return 34 (ExpList 34 
+        (PrefixExp-Exp 34 (PrefixExp 34 (Var 34 (Name 34 x))))
+        (PrefixExp-Exp 34 (PrefixExp 34 (Var 34 (Name 34 y))))
+        (PrefixExp-Exp 34 (PrefixExp 34 (Var 34 (Name 34 z))))
+      ))
+    )
+  )))
+  (FunctionCallSt 38 (FunctionCall 38 (PrefixExp 38 (Var 38 (Name 38 test_func))) (Args 38 )))
+)

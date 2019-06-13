@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/178/trunk/tests
+END
+localglobal.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/126/trunk/tests/localglobal.lua
+END
+print.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/178/trunk/tests/print.lua
+END
+test1.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/163/trunk/tests/test1.lua
+END
+test2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18/trunk/tests/test2.lua
+END
+test3.lua
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18/trunk/tests/test3.lua
+END
+varlist.lua
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/141/trunk/tests/varlist.lua
+END
+factorial.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/153/trunk/tests/factorial.lua
+END
+test1.out
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18/trunk/tests/test1.out
+END
+mutualrecursionfactorial.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/163/trunk/tests/mutualrecursionfactorial.lua
+END
+test2.out
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18/trunk/tests/test2.out
+END
+test3.out
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/18/trunk/tests/test3.out
+END

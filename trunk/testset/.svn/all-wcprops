@@ -1,0 +1,1169 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/201/trunk/testset
+END
+div.out
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/div.out
+END
+modulofloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/modulofloat.out
+END
+ifthenelseifelsecoercionstring.out
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelsecoercionstring.out
+END
+sub.temp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/169/trunk/testset/sub.temp
+END
+subfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/subfloat.lua
+END
+repeat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/repeat.lua
+END
+equals.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/equals.out
+END
+concatcoer.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/concatcoer.lua
+END
+mul.temp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/169/trunk/testset/mul.temp
+END
+repeatcoercion0.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/169/trunk/testset/repeatcoercion0.lua
+END
+constantpropagation.out
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/200/trunk/testset/constantpropagation.out
+END
+mulfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/mulfloat.lua
+END
+testconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/195/trunk/testset/testconfig.xml
+END
+passbywhat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/passbywhat.lua
+END
+constpropdeadcode.out
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/201/trunk/testset/constpropdeadcode.out
+END
+ifthenelse.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/ifthenelse.lua
+END
+string1.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string1.lua
+END
+string3.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string3.lua
+END
+string5.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string5.lua
+END
+temp.out
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/201/trunk/testset/temp.out
+END
+returnstring.out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/201/trunk/testset/returnstring.out
+END
+whilebreak.temp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/whilebreak.temp
+END
+mulstrength.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/201/trunk/testset/mulstrength.out
+END
+return.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/return.temp
+END
+return.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/return.out
+END
+integer2.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/integer2.out
+END
+assignmentvar.out
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/169/trunk/testset/assignmentvar.out
+END
+lessthan.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/lessthan.out
+END
+break.temp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/174/trunk/testset/break.temp
+END
+expfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/expfloat.out
+END
+for.temp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/174/trunk/testset/for.temp
+END
+float2.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/float2.out
+END
+ifthen.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/ifthen.lua
+END
+addfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/addfloat.lua
+END
+assignmentvarright.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/169/trunk/testset/assignmentvarright.lua
+END
+div.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/div.lua
+END
+exp.out
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/exp.out
+END
+constantfolding.out
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/200/trunk/testset/constantfolding.out
+END
+modulo.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/modulo.temp
+END
+modulo.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/modulo.out
+END
+modulofloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/modulofloat.lua
+END
+ifthenelseifelsecoercionstring.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelsecoercionstring.lua
+END
+equals.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/equals.lua
+END
+forincfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/forincfloat.out
+END
+constantpropagation.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/200/trunk/testset/constantpropagation.lua
+END
+constpropdeadcode.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/201/trunk/testset/constpropdeadcode.lua
+END
+coercionint.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/coercionint.out
+END
+forend.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/forend.out
+END
+returnstring.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/201/trunk/testset/returnstring.lua
+END
+repeatbreak.temp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/repeatbreak.temp
+END
+for.out
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/for.out
+END
+mulstrength.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/201/trunk/testset/mulstrength.lua
+END
+return.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/return.lua
+END
+integer2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/integer2.lua
+END
+assignmentvar.lua
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/169/trunk/testset/assignmentvar.lua
+END
+lessthan.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/lessthan.lua
+END
+assignmentvarleft.out
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/169/trunk/testset/assignmentvarleft.out
+END
+lessequal.temp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/lessequal.temp
+END
+expfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/expfloat.lua
+END
+mulstrength1.out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/201/trunk/testset/mulstrength1.out
+END
+mul.out
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/mul.out
+END
+modstrength.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/201/trunk/testset/modstrength.out
+END
+float2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/float2.lua
+END
+exp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/exp.lua
+END
+constantfolding.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/200/trunk/testset/constantfolding.lua
+END
+concatcoerfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/169/trunk/testset/concatcoerfloat.out
+END
+functions.out
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/functions.out
+END
+modulo.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/modulo.lua
+END
+globallocal.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/globallocal.out
+END
+whilebreak.out
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/whilebreak.out
+END
+array.out
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/201/trunk/testset/array.out
+END
+lessthan.temp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/lessthan.temp
+END
+assignmentvar.temp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/169/trunk/testset/assignmentvar.temp
+END
+div.temp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/169/trunk/testset/div.temp
+END
+forincfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/forincfloat.lua
+END
+coercionint.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/coercionint.lua
+END
+forend.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/forend.lua
+END
+deadcode.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/201/trunk/testset/deadcode.out
+END
+string2.out
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string2.out
+END
+equals.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/equals.temp
+END
+string4.out
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string4.out
+END
+assignmentvarexp.temp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/169/trunk/testset/assignmentvarexp.temp
+END
+whilecoercionnil.out
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/169/trunk/testset/whilecoercionnil.out
+END
+lessequal.out
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/lessequal.out
+END
+for.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/for.lua
+END
+greaterthan.temp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/greaterthan.temp
+END
+functions.temp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/functions.temp
+END
+assignmentvarleft.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/169/trunk/testset/assignmentvarleft.lua
+END
+mulstrength1.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/201/trunk/testset/mulstrength1.lua
+END
+mul.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/mul.lua
+END
+modstrength.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/201/trunk/testset/modstrength.lua
+END
+testscript.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/193/trunk/testset/testscript.pl
+END
+neg.out
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/neg.out
+END
+integer1.temp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/integer1.temp
+END
+concatcoerfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/169/trunk/testset/concatcoerfloat.lua
+END
+ifthenelseifelsecoercion0.out
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelsecoercion0.out
+END
+simplestring.out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/201/trunk/testset/simplestring.out
+END
+greaterequal.out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/greaterequal.out
+END
+functions.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/functions.lua
+END
+shortcircuit.out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/shortcircuit.out
+END
+float1.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/float1.temp
+END
+break.out
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/169/trunk/testset/break.out
+END
+globallocal.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/globallocal.lua
+END
+repeatbreak.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/repeatbreak.out
+END
+whilebreak.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/whilebreak.lua
+END
+add.out
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/add.out
+END
+array.lua
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/201/trunk/testset/array.lua
+END
+doend.out
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/169/trunk/testset/doend.out
+END
+assignmentvarexp.out
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/169/trunk/testset/assignmentvarexp.out
+END
+negfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/negfloat.out
+END
+deadcodeelim.out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/200/trunk/testset/deadcodeelim.out
+END
+string2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string2.lua
+END
+deadcode.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/201/trunk/testset/deadcode.lua
+END
+string4.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string4.lua
+END
+whilecoercionnil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/169/trunk/testset/whilecoercionnil.lua
+END
+lessequal.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/lessequal.lua
+END
+notequals.out
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/notequals.out
+END
+ifthenelseifelse.temp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelse.temp
+END
+integer1.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/integer1.out
+END
+passbywhat.temp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/passbywhat.temp
+END
+neg.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/neg.lua
+END
+float1.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/float1.out
+END
+add.temp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/169/trunk/testset/add.temp
+END
+float3.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/float3.out
+END
+repeatcoercionstring.out
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/169/trunk/testset/repeatcoercionstring.out
+END
+ifthenelseifelsecoercion0.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelsecoercion0.lua
+END
+simplestring.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/201/trunk/testset/simplestring.lua
+END
+forstartfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/169/trunk/testset/forstartfloat.out
+END
+greaterequal.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/greaterequal.lua
+END
+shortcircuit.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/shortcircuit.lua
+END
+break.lua
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/169/trunk/testset/break.lua
+END
+repeatbreak.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/repeatbreak.lua
+END
+add.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/add.lua
+END
+ifthenelseifelsecoercionnil.out
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelsecoercionnil.out
+END
+doend.lua
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/169/trunk/testset/doend.lua
+END
+concat.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/concat.temp
+END
+concat.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/concat.out
+END
+neg.temp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/169/trunk/testset/neg.temp
+END
+divfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/divfloat.out
+END
+assignmentvarexp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/169/trunk/testset/assignmentvarexp.lua
+END
+while.out
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/169/trunk/testset/while.out
+END
+negfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/negfloat.lua
+END
+deadcodeelim.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/200/trunk/testset/deadcodeelim.lua
+END
+ifthen.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/ifthen.temp
+END
+ifthenelseifelse.out
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelse.out
+END
+greaterequal.temp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/169/trunk/testset/greaterequal.temp
+END
+forinc.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/forinc.out
+END
+length.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/length.out
+END
+functionvars.out
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/functionvars.out
+END
+deadcode2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/201/trunk/testset/deadcode2.lua
+END
+ifthenelse.temp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/ifthenelse.temp
+END
+notequals.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/testset/notequals.lua
+END
+doend.temp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/doend.temp
+END
+integer1.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/integer1.lua
+END
+sub.out
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/sub.out
+END
+exp.temp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/169/trunk/testset/exp.temp
+END
+functionsfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/169/trunk/testset/functionsfloat.out
+END
+float1.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/float1.lua
+END
+float3.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/float3.lua
+END
+repeatcoercionstring.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/169/trunk/testset/repeatcoercionstring.lua
+END
+forstartfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/169/trunk/testset/forstartfloat.lua
+END
+greaterthan.out
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/greaterthan.out
+END
+while.temp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/while.temp
+END
+globallocal.temp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/globallocal.temp
+END
+ifthenelseifelsecoercionnil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelsecoercionnil.lua
+END
+forinc.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/174/trunk/testset/forinc.temp
+END
+subfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/subfloat.out
+END
+repeat.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/repeat.out
+END
+concatcoer.out
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/concatcoer.out
+END
+concat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/concat.lua
+END
+divfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/divfloat.lua
+END
+repeatcoercion0.out
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/169/trunk/testset/repeatcoercion0.out
+END
+while.lua
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/169/trunk/testset/while.lua
+END
+mulfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/mulfloat.out
+END
+passbywhat.out
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/passbywhat.out
+END
+ifthenelse.out
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/169/trunk/testset/ifthenelse.out
+END
+string1.out
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string1.out
+END
+ifthenelseifelse.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/169/trunk/testset/ifthenelseifelse.lua
+END
+string3.out
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string3.out
+END
+forinc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/forinc.lua
+END
+string5.out
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/string5.out
+END
+length.lua
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/length.lua
+END
+functionvars.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/169/trunk/testset/functionvars.lua
+END
+sub.lua
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/169/trunk/testset/sub.lua
+END
+functionsfloat.lua
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/169/trunk/testset/functionsfloat.lua
+END
+forend.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/174/trunk/testset/forend.temp
+END
+divstrength.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/201/trunk/testset/divstrength.lua
+END
+ifthen.out
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/169/trunk/testset/ifthen.out
+END
+assignmentvarright.temp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/169/trunk/testset/assignmentvarright.temp
+END
+repeat.temp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/testset/repeat.temp
+END
+greaterthan.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/169/trunk/testset/greaterthan.lua
+END
+addfloat.out
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/169/trunk/testset/addfloat.out
+END
+assignmentvarright.out
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/169/trunk/testset/assignmentvarright.out
+END
+teststring.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/201/trunk/testset/teststring.lua
+END

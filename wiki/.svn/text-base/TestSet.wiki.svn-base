@@ -1,0 +1,55 @@
+#summary paranormal activity movie made me dizzy
+
+= Introduction =
+The Testset script is up on repo..this page is for whatever info regarding the testset
+
+
+= Summary =
+
+Basically, a subdirectory testset exists where all the .lua tests exist.  .out files provide the WHAT OUTPUT SHOULD BE LIKE
+
+the script will automatically search for all the .lua files in the directory, generate output with our .luac, create a .temp output, and diff -w versus the .out file with the same prefix.
+
+A configuration file (XML) exists which serves to indicate the path to .luac to be used.  May use the config file for other things in future.
+
+Script outputs 3 categories:  Files that failed at .luac compile, files that failed at llvm-as, and files that either failed at lli or whose lli provided an output different than .out excluding whitespaces.
+
+= How Do I Create a New Test? =
+
+So there is a new case you want to test.....well, write your Lua, test it with ./lua mytest.lua to make sure it compiles fine with Lua.  Then copy your test into testset/.
+
+Note:
+
+It is important that your test have a .lua extension!
+
+Then, you need to create a .out file that has the same name as the test.  This .out file should contain the EXPECTED OUTPUT.  The easiest way to get this is to simply pipe the ./lua mytest.lua into the .out.  Of course, in some cases some changes may be necessary versus what ./lua provides.  For example, if the output from ./lua is TRUE, our ./luac gives a 1, so the .out should be changed to reflect that.
+
+For example:
+
+I want to test "a = true; print(a)"
+
+  #So I create mytest.lua
+  #I copy mytest.lua into testset/ subdir
+  #I execute ./lua mytest.lua > mytest.out to get initial output
+  #I make necessary changes to mytest.out (true to 1)
+  #I make sure mytest.out is in testset/ subdir
+  #We are done!!  The script automatically searches for all .lua files in subdir!
+
+= But Andrei!  Your script says that such and such output is wrong but its right, its simply that our .luac provides a different output! =
+
+Yeah I know.....What happens is I dont know by heart ALL our expected outputs.  So what I propose, and what I have started doing already, is looking at lli errors.  If we see that some error should not be provided, correct the corersponding .out.  So far I have already done that, so at this time (Nov 10 7:39PM) all lli errors are actual errors!
+
+= How to SKIP files =
+
+It may be the case that we don't have time to fix a particular feature tested by one of the tests and we thus want to skip the test without deleting or moving the test around.  In order to do this, we can enter the following line into the configuration XML:
+
+<skip>myfile.lua</skip>
+<skip>myotherfile.lua</skip>
+
+It is possible to skip 0, 1, or many tests.
+
+= Potential Improvements =
+
+Please write in here your suggestions using bullet Items
+
+  * What should I do?

@@ -1,0 +1,1 @@
+for a=0,10,2.1 do print(a) end

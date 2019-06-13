@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="luac" />
+		<Option makefile="makefile" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="all">
+				<Option output="./luac" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="testset/deadcode2.lua" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ast.cpp" />
+		<Unit filename="ast.h" />
+		<Unit filename="ctest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exp.cpp" />
+		<Unit filename="exp.h" />
+		<Unit filename="ir.cpp" />
+		<Unit filename="ir.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="node.h" />
+		<Unit filename="parse.h" />
+		<Unit filename="parse.y" />
+		<Unit filename="scan.l" />
+		<Unit filename="stmt.cpp" />
+		<Unit filename="stmt.h" />
+		<Unit filename="symtable.cpp" />
+		<Unit filename="symtable.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

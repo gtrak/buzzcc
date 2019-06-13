@@ -1,0 +1,16 @@
+(Chunk 2 
+  (Assignment 2 (VarList 2  (Var 2 (Name 2 str))) (ExpList 2 
+    (StringExp 2 (String 2 "THis is a test of escape \"characters\" \n\n. Hopefully it worked."))
+  ))
+  (Assignment 4 (VarList 4  (Var 4 (Name 4 str1)) (Var 4 (Name 4 str2))) (ExpList 4 
+    (StringExp 4 (String 4 "Two \tstrings\t"))
+    (StringExp 4 (String 4 "\tSecond string\t"))
+  ))
+  (Assignment 5 (VarList 5  (Var 5 (Name 5 str3)) (Var 5 (Name 5 str4))) (ExpList 5 
+    (StringExp 5 (String 5 "Two \tstrings\t"))
+    (StringExp 5 (String 5 "\tSecond string\t"))
+  ))
+  (Assignment 7 (VarList 7  (Var 7 (Name 7 str5))) (ExpList 7 
+    (StringExp 7 (String 7 "\'Should \tcontain single\t quotes\'"))
+  ))
+)

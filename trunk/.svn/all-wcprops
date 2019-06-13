@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/201/trunk
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/63/trunk/node.h
+END
+exp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/164/trunk/exp.cpp
+END
+ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/175/trunk/ast.h
+END
+stmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/148/trunk/stmt.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/49/trunk/makefile
+END
+scan.l
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/163/trunk/scan.l
+END
+parse.y
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/175/trunk/parse.y
+END
+exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/146/trunk/exp.h
+END
+luac.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/199/trunk/luac.cbp
+END
+ir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/199/trunk/ir.cpp
+END
+README.hw1
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/18/trunk/README.hw1
+END
+ir.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/199/trunk/ir.h
+END
+symtable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/165/trunk/symtable.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/184/trunk/main.cpp
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/165/trunk/symtable.h
+END
+out
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/18/trunk/out
+END
+ast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/165/trunk/ast.cpp
+END
+stmt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/196/trunk/stmt.cpp
+END
+actionitem.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/151/trunk/actionitem.txt
+END

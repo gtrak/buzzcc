@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/compilua/src/ply
+END
+ctokens.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/12/compilua/src/ply/ctokens.py
+END
+lex.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/compilua/src/ply/lex.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/compilua/src/ply/__init__.py
+END
+yacc.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/compilua/src/ply/yacc.py
+END
+cpp.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/compilua/src/ply/cpp.py
+END

@@ -1,0 +1,5 @@
+<testset>
+  <luacpath>../luac</luacpath>
+  <luacpath_alternate>../luac-noopts</luacpath_alternate>
+</testset>
+
